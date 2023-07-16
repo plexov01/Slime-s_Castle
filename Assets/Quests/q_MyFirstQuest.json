@@ -1,0 +1,3 @@
+{"title":"My First Quest","description":"Some quest description","goals":[
+{"completed":false,"description":"Kill them all!","currentAmount":0,"requiredAmount":2,"goalType":"KillGoal","itemID":1,"mobID":1},
+{"completed":false,"description":"Pick them all!","currentAmount":0,"requiredAmount":2,"goalType":"GatheringGoal","itemID":2,"mobID":2}]}

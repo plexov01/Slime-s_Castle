@@ -1,0 +1,18 @@
+{
+    "nameOfSave": "saveGame0",
+    "numberOfSave": 0,
+    "dataOfLastSave": "00:26:50 19.06.2023",
+    "totalTime": 18.440000534057618,
+    "position": {
+        "x": 50.43000030517578,
+        "y": -21.729999542236329,
+        "z": 0.0
+    },
+    "nameScene": "scn_Enemies",
+    "newGame": false,
+    "playerCoins": 0,
+    "bossFireflyPhase1_firstTry": true,
+    "bossFireflyPhase2_stage1_firstTry": true,
+    "bossFireflyPhase2_stage": "",
+    "bossFireflyIsDead": false
+}

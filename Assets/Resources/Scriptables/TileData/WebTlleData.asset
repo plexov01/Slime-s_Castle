@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cf2a8fe21b90fc438d8e6d47355e054, type: 3}
+  m_Name: WebTlleData
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: b2b34ca096277a44b82a82f370932e1c, type: 2}
+  - {fileID: 11400000, guid: a3540b3a79d007a43b749116b078eba4, type: 2}
+  - {fileID: 11400000, guid: 5645b4f23ea4da84491bcab2eada777b, type: 2}
+  - {fileID: 11400000, guid: f66b79f2493784f438c3207bd9575531, type: 2}
+  - {fileID: 11400000, guid: a2681da1be4f7a349a625546c6979ad6, type: 2}
+  - {fileID: 11400000, guid: ee422067898163a4daa3c0c7b8a6dcf6, type: 2}
+  - {fileID: 11400000, guid: d5ffaff3f0e1d07419ac9632ea3fd6ce, type: 2}
+  - {fileID: 11400000, guid: 88356800972e8324abc1cb2417c95291, type: 2}
+  - {fileID: 11400000, guid: b83b69f4d07ae984d8912797428a1778, type: 2}
+  - {fileID: 11400000, guid: 3c395708186430846950bc7b8effa4ff, type: 2}
+  - {fileID: 11400000, guid: 6e2049c667f7b2843a5f821759bcbd3a, type: 2}
+  movementSpeed: 0.25
+  canJump: 0
+  canBurn: 1
+  spreadChance: 100
+  spreadInterval: 1
+  burnTime: 2

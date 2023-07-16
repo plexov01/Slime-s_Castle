@@ -1,0 +1,1 @@
+{"title":"QuestWithTwoGoalsTest","description":"something","goals":[{"completed":false,"description":"test","currentAmount":0,"requiredAmount":1,"goalType":"KillGoal","itemID":0,"mobID":0},{"completed":false,"description":"test2","currentAmount":0,"requiredAmount":2,"goalType":"GatheringGoal","itemID":0,"mobID":0}]}

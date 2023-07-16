@@ -1,0 +1,26 @@
+{
+  "language": "",
+  "nameDialogue": "testDialogueWithImages",
+  "phraseList": [
+    {
+      "imagePath": "Images/testImage1",
+      "nameSpeaker": "a1",
+      "phrase": "Images/testImage1"
+    },
+    {
+      "imagePath": "Images/testImage2",
+      "nameSpeaker": "a2",
+      "phrase": "Images/testImage2"
+    },
+    {
+      "imagePath": "a3",
+      "nameSpeaker": "",
+      "phrase": "ничего нет"
+    },
+    {
+      "imagePath": "Images/testImage3",
+      "nameSpeaker": "a4",
+      "phrase": "Images/testImage3Images/testImage3"
+    }
+  ]
+}

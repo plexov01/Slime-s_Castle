@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 76b72c321b09f0148b3fe8e64b43d212
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1015497700341046428
+    second: wart_waterPipes_0
+  - first:
+      213: -6095387655968257254
+    second: wart_waterPipes_1
+  - first:
+      213: -5757629642644878756
+    second: wart_waterPipes_2
+  - first:
+      213: 3008168013722174747
+    second: wart_waterPipes_3
+  - first:
+      213: -8155810796432494387
+    second: wart_waterPipes_4
+  - first:
+      213: 2219744578892670708
+    second: wart_waterPipes_5
+  - first:
+      213: -3375715731909945843
+    second: wart_waterPipes_6
+  - first:
+      213: 1424397673171889045
+    second: wart_waterPipes_7
+  - first:
+      213: 1442609442080541894
+    second: wart_waterPipes_8
+  - first:
+      213: 5816720370531453064
+    second: wart_waterPipes_9
+  - first:
+      213: 8807850029217619391
+    second: wart_waterPipes_10
+  - first:
+      213: 7184370516863783636
+    second: wart_waterPipes_11
+  - first:
+      213: -5439359173183309156
+    second: wart_waterPipes_12
+  - first:
+      213: -1925328914578122421
+    second: wart_waterPipes_13
+  - first:
+      213: 2676899982978893351
+    second: wart_waterPipes_14
+  - first:
+      213: -5593817613744513890
+    second: sprt_waterPipes_0
+  - first:
+      213: 8807400678086478910
+    second: sprt_waterPipes_1
+  - first:
+      213: 5633531295057858794
+    second: sprt_waterPipes_2
+  - first:
+      213: 2759241896132446265
+    second: sprt_waterPipes_3
+  - first:
+      213: 8678174580031845824
+    second: sprt_waterPipes_4
+  - first:
+      213: -2563117491787909871
+    second: sprt_waterPipes_5
+  - first:
+      213: 8507217096795940987
+    second: sprt_waterPipes_6
+  - first:
+      213: -5753777889139241158
+    second: sprt_waterPipes_7
+  - first:
+      213: 170417709962883010
+    second: sprt_waterPipes_8
+  - first:
+      213: 4579615253452576426
+    second: sprt_waterPipes_9
+  - first:
+      213: -8511605805602676034
+    second: sprt_waterPipes_10
+  - first:
+      213: -6487015447129087649
+    second: sprt_waterPipes_11
+  - first:
+      213: -3257355533112173386
+    second: sprt_waterPipes_12
+  - first:
+      213: 7522982613819336639
+    second: sprt_waterPipes_13
+  - first:
+      213: 3854663531126060179
+    second: sprt_waterPipes_14
+  - first:
+      213: 6378205004198487351
+    second: sprt_waterPipes_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprt_waterPipes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -25}
+        - {x: -18, y: -7}
+        - {x: -10, y: 7}
+        - {x: 1, y: 16}
+        - {x: 25, y: 18}
+        - {x: 25, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c5f628484ce52b0800000000000000
+      internalID: -5593817613744513890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -25}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 18, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c01ebc04c2a3a70800000000000000
+      internalID: 8807400678086478910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -25}
+        - {x: -18, y: -18}
+        - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: -3, y: 17}
+        - {x: 9, y: 8}
+        - {x: 18, y: -7}
+        - {x: 18, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae058f87dd25e2e40800000000000000
+      internalID: 5633531295057858794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -25}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 18, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938895ca2ebca4620800000000000000
+      internalID: 2759241896132446265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: 25, y: 18}
+        - {x: 25, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c57f953dc11f6870800000000000000
+      internalID: 8678174580031845824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -25}
+        - {x: -18, y: -18}
+        - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: -18, y: 18}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 18, y: 18}
+        - {x: 25, y: 18}
+        - {x: 25, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1153460a83afd6cd0800000000000000
+      internalID: -2563117491787909871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: 25, y: 18}
+        - {x: 25, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e6a950e4bf0670800000000000000
+      internalID: 8507217096795940987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: 25, y: 18}
+        - {x: 25, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fcb51ae797620b0800000000000000
+      internalID: -5753777889139241158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -18}
+        - {x: -8, y: -10}
+        - {x: -17, y: 4}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 18, y: 18}
+        - {x: 25, y: 18}
+        - {x: 25, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe5c911027d5200800000000000000
+      internalID: 170417709962883010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -25}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 18, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa650062fcf0e8f30800000000000000
+      internalID: 4579615253452576426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -18}
+        - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: -18, y: 18}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 17, y: 3}
+        - {x: 9, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb266e0cd93b0e980800000000000000
+      internalID: -8511605805602676034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -25}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 18, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51266d02dd79f5a0800000000000000
+      internalID: -6487015447129087649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: -18, y: 18}
+        - {x: -18, y: 25}
+        - {x: 18, y: 25}
+        - {x: 18, y: 18}
+        - {x: 25, y: 18}
+        - {x: 25, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc12bd966c8bc2d0800000000000000
+      internalID: -3257355533112173386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: -18, y: 18}
+        - {x: -18, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7242c24d0076860800000000000000
+      internalID: 7522982613819336639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: 4, y: 18}
+        - {x: 15, y: 11}
+        - {x: 18, y: 0}
+        - {x: 15, y: -11}
+        - {x: 4, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394fb650f048e7530800000000000000
+      internalID: 3854663531126060179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprt_waterPipes_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -18}
+        - {x: -25, y: 18}
+        - {x: 25, y: 18}
+        - {x: 24, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735aedb78afe38850800000000000000
+      internalID: 6378205004198487351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
