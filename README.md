@@ -8,3 +8,6 @@
 ![image](https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/eb19ccf7-2318-4334-979d-c15b739a1139)
 
 ![image](https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/fcc6dfbe-a5be-4479-a34b-e178c79c9371)
+
+Демонстрационный ролик:
+<video src='https://github.com/plexov01/Slime-s_castle/assets/69338815/ec8373c6-19b0-4875-8d64-7ae3ca278448' width=180/>
